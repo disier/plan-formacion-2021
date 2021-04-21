@@ -33,3 +33,6 @@
   "managementEndpointUrl": "https://management.core.windows.net/"
 }
 ```
+3. Save AZURE_CREDENTIALS secret on repository
+4. Create main.yml workflow on HitHub
+5. Solve `Az CLI Login failed.` error
