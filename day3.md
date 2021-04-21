@@ -19,22 +19,14 @@
 
   The generated credential is:
 
-  ```json
-{
-  "clientId": "ed6dfa5d-064f-42f3-9034-87c0ce65bd78",
-  "clientSecret": "BIzFlqNjlT96fk~FfA2Nu~FCpdLbzjCb95",
-  "subscriptionId": "486c4daa-77bd-41bc-a27b-a0afc68c6c32",
-  "tenantId": "dbf94a9d-4528-4958-b6cb-7a1201ed5da1",
-  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
-  "resourceManagerEndpointUrl": "https://management.azure.com/",
-  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
-  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
-  "galleryEndpointUrl": "https://gallery.azure.com/",
-  "managementEndpointUrl": "https://management.core.windows.net/"
-}
-```
-3. Save AZURE_CREDENTIALS secret on repository
+3. Save generated JSON credentials into AZURE_CREDENTIALS secret on repository
 4. Create main.yml workflow on HitHub
 5. Solve error: 
   1. `Az CLI Login failed.` error
   2. `endpoint not found`. Correct endpointmame is: blaumarkstatic
+
+## Modify HTML contents during deploy
+
+1. Check [Substitute String action](https://github.com/marketplace/actions/substitute-string)
+2. Check https://github.com/datamonsters/replace-action
+3. Read about custom actions: https://docs.github.com/en/actions/creating-actions/about-actions
