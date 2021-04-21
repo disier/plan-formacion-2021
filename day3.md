@@ -15,11 +15,11 @@
 1. Read [Set up a GitHub Actions workflow to deploy your static website in Azure Storage](https://docs.microsoft.com/es-es/azure/storage/blobs/storage-blobs-static-site-github-actions)
 2. Generate Deployment credentials
 
-`az ad sp create-for-rbac --name blamarkwebstorage --role contributor --scopes /subscriptions/486c4daa-77bd-41bc-a27b-a0afc68c6c32/resourceGroups/BlaumarkWebTest --sdk-auth`
+  `az ad sp create-for-rbac --name blamarkwebstorage --role contributor --scopes /subscriptions/486c4daa-77bd-41bc-a27b-a0afc68c6c32/resourceGroups/BlaumarkWebTest --sdk-auth`
 
-The generated credential is:
+  The generated credential is:
 
-```json
+  ```json
 {
   "clientId": "ed6dfa5d-064f-42f3-9034-87c0ce65bd78",
   "clientSecret": "BIzFlqNjlT96fk~FfA2Nu~FCpdLbzjCb95",
