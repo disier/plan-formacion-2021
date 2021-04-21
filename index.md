@@ -28,4 +28,4 @@ These are the steps done:
 15. Modify DNS entry to point to Azure CDN endpoint
 
 
-## Day 3: Automatic Deploy on Azure Storage and code parsing
+[day3.md]
