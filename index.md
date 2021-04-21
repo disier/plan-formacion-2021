@@ -5,7 +5,7 @@
 5. PowerPlatform
 
 # Worklog
-## Day 1: Azure Static Web Page with automatic Deploy
+1.[Day 1: Azure Static Web Page with automatic Deploy](day1.md)
 
 ## Day 2: Set up a Static Web page with Azure Storage and custom domain HTTPS
 
