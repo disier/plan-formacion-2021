@@ -25,6 +25,8 @@
   1. `Az CLI Login failed.` error
   2. `endpoint not found`. Correct endpointmame is: blaumarkstatic
 
+**WORKS**
+
 ## Modify HTML contents during deploy
 
 1. Check [Substitute String action](https://github.com/marketplace/actions/substitute-string)
