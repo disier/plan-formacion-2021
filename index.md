@@ -11,6 +11,11 @@
 3. Azure
 5. Azure DevOps
 6. PowerPlatform
+    1. Power Platform Fundamentals
+    2. Power Apps Canvas
+    3. Power Apps MDM
+    4. Power Apps Portal
+    5. PowerBI
 
 # Worklog
 1. [Day 1: Azure Static Web Page with automatic Deploy](day1.md)
