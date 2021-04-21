@@ -19,7 +19,7 @@
 
 The generated credential is:
 
-`{
+```json{
   "clientId": "ed6dfa5d-064f-42f3-9034-87c0ce65bd78",
   "clientSecret": "BIzFlqNjlT96fk~FfA2Nu~FCpdLbzjCb95",
   "subscriptionId": "486c4daa-77bd-41bc-a27b-a0afc68c6c32",
@@ -30,4 +30,4 @@ The generated credential is:
   "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
   "galleryEndpointUrl": "https://gallery.azure.com/",
   "managementEndpointUrl": "https://management.core.windows.net/"
-}`
+}```
