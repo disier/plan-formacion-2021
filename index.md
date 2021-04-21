@@ -28,4 +28,4 @@ These are the steps done:
 15. Modify DNS entry to point to Azure CDN endpoint
 
 
-[day3.md]
+(day3.md)
