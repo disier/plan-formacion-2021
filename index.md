@@ -1,8 +1,16 @@
 # Roadmap:
 1. GitHub
+    - [x] GitHub Basics
+    - [x] GitHub Issues
+    - [ ] GirHub Actions
+    - [x] GitHub Projects and boards
+    - [ ] GitHub Wiki
+    - [ ] GitHub Security
+    - [ ] GitHub Insights
+    - [x] GitHub Pages
 3. Azure
-4. Azure DevOps
-5. PowerPlatform
+5. Azure DevOps
+6. PowerPlatform
 
 # Worklog
 1. [Day 1: Azure Static Web Page with automatic Deploy](day1.md)
