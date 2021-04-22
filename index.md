@@ -21,3 +21,4 @@
 1. [Day 1: Azure Static Web Page with automatic Deploy](day1.md)
 2. [Day 2: Set up a Static Web page with Azure Storage and custom domain HTTPS](day2.md)
 3. [Day 3: GitHub Pages & Automatic Deploy on Azure Blob Storage](day3.md)
+4. [Day 4: Modify files on deploy](day4.md)
