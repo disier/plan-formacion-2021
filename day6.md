@@ -8,4 +8,4 @@
 4. Create a blaumark.local certificate with https://www.selfsignedcertificate.com/
 5. Convert it to PFX format with tool https://www.sslshopper.com/ssl-converter.html
 6. Install it on IIS and reenable HTTPS
-7. Solve problem when adding <!DOCTYPE html> on mark screen
+7. Solve problem when adding ```<!DOCTYPE html>``` on mark screen
