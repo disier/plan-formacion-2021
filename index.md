@@ -24,3 +24,4 @@
 4. [Day 4: Modify files on deploy](day4.md)
 5. [Day 5: Execute custom commands on deploy](day5.md)
 6. [Day 6: Finhish local blaumark update](day6.md)
+7. [Day 7: DB issues on azure](day7.md)
